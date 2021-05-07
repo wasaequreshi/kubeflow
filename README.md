@@ -1,0 +1,2 @@
+# Kubeflow Setup for Cancer Classification
+This repo contains all the necessary code needed to create, update and deploy a pipeline to kubeflow. Please use the template.ipynb file as a reference on how to execute these commands. This notebook must exist on a Jupyter notebook on GCP.
